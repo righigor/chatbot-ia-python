@@ -1,0 +1,53 @@
+Igor Righi Gonçalves - Front-End Developer
+Belo Horizonte, MG - Brasil | email: righigordev@gmail.com | phone number: +55 31 99839-7442
+https://www.linkedin.com/in/igor-righi/ • https://github.com/righigor • https://righigordev.netlify.app/
+
+SUMMARY
+Front-end developer with a Full Stack Development background from Trybe, experienced in building responsive, high-performance applications using React, TypeScript, and Tailwind CSS. Skilled in user experience optimization and agile methodologies. Proven ability to reduce page errors, while collaborating effectively in cross-functional teams. Currently expanding UX design skills with Google to further enhance user-centered design capabilities. Seeking challenging roles to drive impactful digital experiences and contribute to innovative projects.
+
+PROFESSIONAL EXPERIENCE
+
+FRONT-END DEV	Belo Horizonte, Brazil
+JBRG Advocacia	March,  2024
+Developed a responsive landing page using React and TypeScript, achieving a 15% increase in page loading speed and reducing bounce rates by optimizing for user experience.
+Modularized code using CSS Modules, improving scalability and maintenance efficiency.
+Deployed on Netlify, integrating Git for version control; live at: jbrg.adv.br
+
+EDUCATION
+GOOGLE UX DESIGN	Brasil
+Google		July, 2024 - December, 2024
+
+FULL STACK WEB DEVELOPMENT	Brazil
+Trybe  		March, 2023 - May, 2024
+Intensive program focused on full-stack web application development with React and Express, covering agile methodologies. Front-end and back-end projects available in my GitHub.
+
+CS:50 INTRODUCTION TO COMPUTER SCIENCE	Brazil
+Harvard University and Fundação Estudar	December, 2023 - February, 2024
+
+
+SKILLS
+
+Front-End Technologies: React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, React Native, Figma.
+Back-End & Databases: Node.js, Express, Fastify, Prisma, Sequelize, MySQL, PostgreSQL, MongoDB, Django, Docker.
+Methodologies: Agile, Scrum, Kanban.
+Other Skills: Creative problem-solving, collaboration, effective communication, adaptability, time management, attention to detail.
+
+
+
+LANGUAGES
+
+Portuguese: Native;
+English: Advanced;
+German: Basic.
+
+CERTIFICATIONS & ADDITIONAL TRAINING
+NLW Pocket - JavaScript FullStack - Rocketseat     	September, 2024
+NLW Journey - React JS - Rocketseat     	July, 2024
+Create high-fidelity designs and prototypes with Figma - Coursera Project Network	July, 2024
+Code in Place - Stanford University	June, 2024
+NLW Unite - Node JS - Rocketseat	April, 2024
+NLW Expert Trilha de React JS - Rocketseat	February, 2024
+Bootcamp: IA generativa com AWS - Trybe	December, 2023
+Curso Online de Java - Rocketseat	October, 2023
+Introduction to Machine Learning - Raspberry PI Foundation	August, 2022
+Object-Oriented Programming in Python - Raspberry PI Foundation	March, 2022
